@@ -1,6 +1,6 @@
 {
     "name": "celsius-to-fahrenheit",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Convert celsius to fahrenheit.",
     "main": "index.js",
     "repository": {
