@@ -1,0 +1,19 @@
+{
+    "name": "celsius-to-fahrenheit",
+    "version": "0.0.0",
+    "description": "Convert celsius to fahrenheit",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/theuves/celsius-to-fahrenheit.git"
+    },
+    "keywords": [
+        "convert",
+        "units",
+        "temperature",
+        "celsius",
+        "fahrenheit",
+    ],
+    "author": "Matheus Alves",
+    "license": "MIT"
+}
