@@ -1,9 +1,7 @@
 'use strict';
 
-module.exports = function (c) {
-    if (typeof c !== 'number') {
-        throw new TypeError('Expected a number');
+module.exports = function (celsius) {
+    if (typeof celsius === 'number') {
+        return celsius * 1.8 + 32;
     }
-
-    return c * 1.8 + 32;
 };
