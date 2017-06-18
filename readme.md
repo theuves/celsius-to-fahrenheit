@@ -5,6 +5,6 @@
 ```js
 var celsiusToFahrenheit = require('celsius-to-fahrenheit');
 
-celsiusToFahrenheit(19);
-//=> 66.2
+celsiusToFahrenheit(5.555555555555555);
+//=> 42
 ```
